@@ -254,4 +254,3 @@ class rssGenerator_item
 
 }
 
-?>
