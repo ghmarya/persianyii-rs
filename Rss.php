@@ -184,5 +184,6 @@ class Rss extends \yii\base\Widget{
     }
 
 }
+?>
 
 
